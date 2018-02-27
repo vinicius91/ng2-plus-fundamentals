@@ -1,19 +1,23 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import { AppRoutingModule } from './app-routing.module';
+
 import { MaterialModule } from './shared/material.module';
-
-
 import { AppComponent } from './app.component';
+import { NavigationComponent } from './navigation/navigation.component';
+import { EventsListComponent } from './events/events-list/events-list.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavigationComponent,
+    EventsListComponent
   ],
   imports: [
     BrowserModule,
-    BrowserAnimationsModule,
+    AppRoutingModule,
     MaterialModule
   ],
   providers: [],

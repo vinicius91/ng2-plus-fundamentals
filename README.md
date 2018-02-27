@@ -1,6 +1,6 @@
 # Ng2PlusFundamentals
 
-This project is a version of the Angular 2 Fundamentals on PluralSight. In this version the project is created with Angular Cli and MAterial UI for styling.
+This project is a version of the Angular 2 Fundamentals on PluralSight. In this version the project is created with Angular Cli and Material UI for styling.
 
 ## Development server
 
