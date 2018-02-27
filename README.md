@@ -1,6 +1,6 @@
 # Ng2PlusFundamentals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+This project is a version of the Angular 2 Fundamentals on PluralSight. In this version the project is created with Angular Cli and MAterial UI for styling.
 
 ## Development server
 

@@ -10,18 +10,28 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "author": {
+    "email": "viniro3201@gmail.com",
+    "name": "Vinicius Rodrigues",
+    "url": "http://www.viniro.me"
+  },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^5.2.0",
+    "@angular/animations": "^5.2.6",
+    "@angular/cdk": "^5.2.3",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
     "@angular/core": "^5.2.0",
     "@angular/forms": "^5.2.0",
     "@angular/http": "^5.2.0",
+    "@angular/material": "^5.2.3",
     "@angular/platform-browser": "^5.2.0",
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
+    "hammerjs": "^2.0.8",
+    "ng2f-bootstrap": "^0.0.4",
+    "ng2f-server": "^0.2.3",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
   },
